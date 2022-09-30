@@ -1,0 +1,17 @@
+.sabin{
+    background-color: aqua;
+    width:179px;
+    position: absolute;
+    
+    
+
+}
+.input[type=text]{
+    width: 100%;
+}
+.red{
+    background-color: skyblue;
+    color: blue;
+    margin: 2px;
+    padding: 2px;
+}
